@@ -1,5 +1,5 @@
 module.exports = {
-    database: "mongodb+srv://lester:lvds1995.@cluster0-mdsnv.mongodb.net/test?retryWrites=true",
+    database: "mongodb+srv://lemon:lemon123@mohapp-esups.mongodb.net/test?retryWrites=true&w=majority",
     testDatabase: "mongodb+srv://lester:lvds1995.@cluster0-mdsnv.mongodb.net/testdata?retryWrites=true",
     superSecret: "df;gjk3409tgpofdbvkw4gk-rwit24t,gdfpovoqeo[13- -3i -3 i-0ids-f-i-ak123-i 1--sH(*n( *y (*y(W#(*jhSD)*D)*SJ_(U#n_DXJ_ d",
     mailServer: { //smtp
